@@ -1,0 +1,14 @@
+* ************************************************************
+* Traverse Adjustment
+* ************************************************************
+
+**[Stn. A], [Inc. Angle D-A-B],		[Length of line joining D-A]
+**[Stn. B], [Inc. Angle A-B-C],		[Length of line joining A-B], [Bearing of line joining A-B]
+**[Stn. C], [Inc. Angle B-C-D],		[Length of line joining B-C]
+**[Stn. D], [Inc. Angle C-D-A],		[Length of line joining C-D]
+
+A	129'40'25	10.75
+B	117'20'30	6.1503		121'1"0"
+C	044'40'15	9.8204	
+D	155'15'24	2.8416	
+

@@ -1,0 +1,6 @@
+LIBRARY     "SurvUtilArx.arx"
+DESCRIPTION 'SurvUtil ARX Wizard application'
+
+EXPORTS     acrxEntryPoint
+            _SetacrxPtp
+            acrxGetApiVersion
