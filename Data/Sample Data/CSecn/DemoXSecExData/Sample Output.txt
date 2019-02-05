@@ -1,0 +1,87 @@
+Calculation log at Chainage : 10.000
+Volume per unit length for considering Datum : 9.604
+	Proposed Section : 123.984
+	Original Section : 1.144
+Result : 122.840(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 30.000
+Volume per unit length for considering Datum : 7.900
+	Proposed Section : 182.260
+	Original Section : 17.744
+Result : 164.516(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 50.000
+Volume per unit length for considering Datum : 9.009
+	Proposed Section : 144.894
+	Original Section : 4.346
+Result : 140.548(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 60.000
+Volume per unit length for considering Datum : 9.604
+	Proposed Section : 124.834
+	Original Section : 1.144
+Result : 123.690(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 70.000
+Volume per unit length for considering Datum : 7.900
+	Proposed Section : 182.940
+	Original Section : 13.431
+Result : 169.509(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 80.000
+Volume per unit length for considering Datum : 9.009
+	Proposed Section : 145.404
+	Original Section : 4.546
+Result : 140.858(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:07 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 90.000
+Volume per unit length for considering Datum : 9.604
+	Proposed Section : 125.344
+	Original Section : 1.009
+Result : 124.335(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:08 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 100.000
+Volume per unit length for considering Datum : 7.900
+	Proposed Section : 183.450
+	Original Section : 13.431
+Result : 170.019(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:08 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 110.000
+Volume per unit length for considering Datum : 9.009
+	Proposed Section : 145.914
+	Original Section : 4.346
+Result : 141.568(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:08 AM|<-|****|****|****|****|****|****
+
+Calculation log at Chainage : 120.000
+Volume per unit length for considering Datum : 9.613
+	Proposed Section : 125.548
+	Original Section : 76.785
+Result : 48.763(Fill)
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:08 AM|<-|****|****|****|****|****|****
+
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:08 AM|<-|****|****|****|****|****|****
+
+Detail of Cut/Fill order by chainage........
+At Chainage 10.000 Volume = 122.840[Fill] [[Existing = 1.144;;Proposed = 123.984]]
+At Chainage 30.000 Volume = 164.516[Fill] [[Existing = 17.744;;Proposed = 182.260]]
+At Chainage 50.000 Volume = 140.548[Fill] [[Existing = 4.346;;Proposed = 144.894]]
+At Chainage 60.000 Volume = 123.690[Fill] [[Existing = 1.144;;Proposed = 124.834]]
+At Chainage 70.000 Volume = 169.509[Fill] [[Existing = 13.431;;Proposed = 182.940]]
+At Chainage 80.000 Volume = 140.858[Fill] [[Existing = 4.546;;Proposed = 145.404]]
+At Chainage 90.000 Volume = 124.335[Fill] [[Existing = 1.009;;Proposed = 125.344]]
+At Chainage 100.000 Volume = 170.019[Fill] [[Existing = 13.431;;Proposed = 183.450]]
+At Chainage 110.000 Volume = 141.568[Fill] [[Existing = 4.346;;Proposed = 145.914]]
+At Chainage 120.000 Volume = 48.763[Fill] [[Existing = 76.785;;Proposed = 125.548]]
+****|****|****|****|****|****|->SurvUtilARX on 25-May-02 11:33:28 AM|<-|****|****|****|****|****|****
+
+Total Volume			: 15570.554[Fill]
+Total Distance Surveyed : 110.000

@@ -1,0 +1,33 @@
+*************Proposed Cross Section Data*************
+******************************************************
+*Bit Code Specification for each Line of Station data
+*	0 = No Text/Block Annotation & Ordinate Line
+*	1 = Only Draws Ordinate Line
+*	2 = Only Draws Text Annotation
+*	4 = Only Inserts the specified Blockname
+*	8 = No Label Annotation (N/E/Elev etc.)
+******************************************************
+*Distance/Elevation Data of Profile
+*Bit Code=>|<Chainage=>|<=Elevation=>|<=Annotation if reqd.=>|
+1       00.00           371.628
+8       50.00           372.346
+8       100.00          373.395
+8       150.00          373.995
+8       200.00          374.356
+8       250.00          373.804
+8       300.00          373.027
+8       350.00          372.846
+8       400.00          373.354
+8       450.00          374.804
+8       500.00          375.985
+8       550.00          375.676
+8       600.00          375.648
+10      650.00          376.119	Test
+14      700.00          377.215 TestText#2	C
+1       750.00          378.100
+1       800.00          378.160
+1       850.00          377.929
+1       900.00          377.971
+1       950.00          377.902
+1       1000.00         377.550
+1       1050.00         377.527

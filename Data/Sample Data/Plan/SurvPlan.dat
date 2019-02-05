@@ -1,0 +1,45 @@
+*******************************************
+**SurvPlan.DAT
+**for Survey Plan Object Configuration File
+**
+**=========================================
+**Following are the valid Objects can be drawn
+**Go thru Documentation for Detail of data input
+**procedure
+*******************************************
+*SURVEYED_TREE
+*NOT_IN_SITU_TREE
+*PALM_TREE TUBE_WELL
+*KANCHA_WELL
+*PUCCA_WELL                     
+********************************************
+*KANCHA_ROAD_SIDE
+*HOUSE_BOUNDARY
+*VILLEGE_BOUNDARY
+*JUNGLE_LIMIT
+*MOORUM_ROAD_SIDE
+*FOOTPATH_SIDE
+*NALLAH_SIDE
+*PROPOSED_PLANT_SITE
+********************************************
+*TELEPHONE_POST
+*ELEC_LIGHT_POST
+********************************************
+*KANCHA_ROAD_CEN
+*FOOTPATH_CEN
+*NALLAH_CEN
+*MOORUM_ROAD_CEN
+********************************************
+*POND
+*HUTMENT
+*PUCCA_BUILDING
+********************************************
+*EMBANKMENT
+********************************************
+*OPEN_ROCK
+********************************************
+*CULVERT01
+*CULVERT02
+********************************************
+*RAIN_CUT
+********************************************

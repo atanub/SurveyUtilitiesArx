@@ -1,0 +1,14 @@
+******************************************
+**SurvPlan.DEF
+**for Survey Plan Configuaration Data File
+******************************************
+DWGSCALE			  1.0
+TEXTSIZE			  2.0
+TEXTANGLE			  0045.0
+MARKERSIZE			  2.0
+SURVORGLEFTX		100000.0
+SURVORGLEFTY		173000.0
+SURVWIDTH			  7000.0
+SURVHEIGHT			  7000.0
+GRIDSPACINGH		   100.0
+GRIDSPACINGV		   100.0
