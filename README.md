@@ -1,2 +1,2 @@
 # SurveyUtilitiesArx
-Field Survey Utilities for AutoCAD developed in ObjectARX
+Various Utilities for Field Survey on AutoCAD. Developed using C++, VC++, AutoCAD ObjectARX
