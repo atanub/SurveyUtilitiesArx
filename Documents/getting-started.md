@@ -30,7 +30,7 @@ Execute the following command to export user selected point coordinates along wi
 `Command: ExportPointsWithNeaText`  
 
 Alternatively click on the menu as shown below…
-![context menu with all features](./images/context-menu-with-all-features-01.png)
+![context menu with all features](./Images/context-menu-with-all-features-01.png)
   
 |Step| Description |
 |--|--|
@@ -57,7 +57,7 @@ Execute the following command to export user selected point coordinates along wi
 `Command: DrawTableUsingXLSdata`
 
 Alternatively click on the menu as shown below…
-![context menu with all features](./images/context-menu-with-all-features-02.png)  
+![context menu with all features](./Images/context-menu-with-all-features-02.png)  
 
 | Step | Description                                                                                |
 |------|--------------------------------------------------------------------------------------------|
